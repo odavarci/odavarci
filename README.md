@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ömer Davarcı
-- 👀 I do not know what I am interested in. Still exploring beauties of computing world.
-- 🌱 I’m currently learning Java.
+- 👀 Interested in game development (just a curious person).
+- 🌱 I’m currently learning Unity.
 - 📫 If you want to reach me (do not know why), just send an e-mail to omerdavarci.user@gmail.com  
 
 <!---
