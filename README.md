@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ömer Davarcı,
 - 🏫 Computer Engineering student at TOBB ETU,
-- 👀 Interested in game development (just a curious person),
-- 🌱 Learning Unity,
+- 👀 Internship at Jotform,
+- 🌱 Learning React,
 - 📫 If you want to reach me (do not know why), just send an e-mail to omerdavarci.user@gmail.com.
 
 <!---
