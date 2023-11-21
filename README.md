@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ömer Davarcı,
 - 🏫 Computer Engineering student at TOBB ETU,
-- 👀 Internship at Jotform,
-- 🌱 Learning React,
+- 👀 Internship at SimBT, Jotform and TOGG,
+- 🌱 Working on Unity, React, CMake,
 - 📫 If you want to reach me (do not know why), just send an e-mail to omerdavarci.user@gmail.com.
 
 <!---
